@@ -1,0 +1,3 @@
+
+* Addition no. 1 to sm_submodule_2.
+
